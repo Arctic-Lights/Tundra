@@ -15,7 +15,7 @@ The Snowdrop Application Programmers Interface, or API, attempts to resolve many
 
 Of course, the biggest issue lies now in how to stimulate interest in the nature of programming itself. Snowdrop attempts to do exactly that: stimulate interest in the field by making things easier and simpler, all working to build the programming skills that one needs for the future.
 
-![XKCD Standards](https://xkcd.com/927/)
+![XKCD Standards](http://imgs.xkcd.com/comics/standards.png)
 
 *sigh*... That’s besides the point. The goal of Snowdrop is not to create an API that competes with already existing ones (in fact, we use other external APIs as well), but to help cater to those who are trying to learn: arguably the most fragile group that exists. Because of this, we’re able to distinguish ourselves, our target audience forces us to better the API in concise ways, and provides us with a large incentive that many projects just seem to ignore: the documentation.
 
