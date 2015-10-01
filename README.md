@@ -23,7 +23,7 @@ Or even just:
 
     doAThing() -> void
 
-    Well… It does ya know. 
+      Well… It does ya know. 
 
 
 This is arguably the greatest asset that the Snowdrop API has itself: the documentation that comes with the API. The docs, or the “dictionary” of the language provides vast amounts of information at a developer’s fingertips. The issue of lacking documentation is so great, that places such as Stack Overflow are now looking to create complete, community-curated sites about documentation for languages, and many popular programming frameworks. The documentation of Snowdrop focuses on simplicity and clarity, as well as another thing nearly unheard of in API documentation: examples. Classes and methods in the API are well documented on both what they do, and when and where to use them.
@@ -32,18 +32,23 @@ All aspects of Snowdrop effectively make it advantageous and unique: the quality
 
 ### Features:
 
-
+- We've got features, but how should we display it? (Well, technically there is no features since there's no code in this repo yet :/
 
 ### Documentation:
 
+As noted above, we're proud of the project that we have. This GitHub repository hosts the code that powers the API. If you're looking for the documentation, you can go to the project website, [here]. The documentation comes with rich examples to help enhance usage of the API effectively. You can also find tutorials if you wish to learn the language with the assistance of the high-level features of the API.
 
+- [Project Documentation]
+- [Language and Project Tutorials]
 
 ### License:
 
-
+- We're still trying to choose a license. Wanting to help us choose? Visit Open Source SE and help us out in [this] post!
 
 ### Installation:
 
-
+- Installation instructions can be found in the project website. In a nutshell, you can find the `.jar` files located for downoad on the project website, and include them in the classpath of your project. More information on the website, at `/installation`.
 
 ### Contribute!
+
+- Still trying to figure out contribution policies. :)
