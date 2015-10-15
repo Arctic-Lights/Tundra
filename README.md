@@ -1,9 +1,13 @@
 # Tundra
 An easy Application Programmers Interface for younger developers still learning :)
 
+<!-- Include a link to the Arctic Lights website (arcticlights.ca) -->
+<!-- Include a link to the Tundra website (tundra.arcticlights.ca) -->
+<!-- Include some quick widget stats, like downloads and views -->
+
 ### Why?
 
-The art of programming has now developed to be an essential skill in the technological age. The ability to create and foster innovative programs to enhance lives, perform complex operations to ease operations, and in overall, to simply chores.
+The art of programming has now developed to be an essential skill in the technological age. The ability to create and foster innovative programs to enhance lives, perform complex operations to ease operations, and in overall, to simplify chores.
 
 It’s well known that languages are close to impossible to learn at the beginning. This is because programming is, quite literally, speaking in another language, with such unique semantics that would just about be wrong in the everyday languages in which we speak.
 
@@ -32,7 +36,17 @@ All aspects of Tundra effectively make it advantageous and unique: the quality o
 
 ### Features:
 
-- We've got features, but how should we display it? (Well, technically there is no features since there's no code in this repo yet :/
+- <strike>We've got features, but how should we display it? (Well, technically there is no features since there's no code in this repo yet :/</strike>
+
+Tundra provides many extensions to the standard Java library, and introduces many higher-level classes to ease the work and extra code required to do the same operation using the slight lower-level interfaces that the standard Java library provides. Here are some of the things that Tundra has:
+
+- Many AWT (Abstract Window Toolkit) and Swing extensions.
+- User Notifications (Support for native notifications on OS X as well)
+- Support for Native operations (these are separate packages, and come with documentation)
+- IO utilities
+- File utilities
+- Basic utilities
+- High-level interfaces for local servers and sockets; high-level web interfaces
 
 ### Documentation:
 
