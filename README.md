@@ -1,5 +1,5 @@
 # Tundra
-An easy Application Programmers Interface for younger developers still learning :)
+A powerful API suited for young programmers in growth. :)
 
 <!-- Include a link to the Arctic Lights website (arcticlights.ca) -->
 
